@@ -1,0 +1,38 @@
+[
+  {
+    "Album": "Thriller",
+    "Artist": "Michael Jackson",
+    "Track": [
+      "Wanna Be Startin' Somethin'",
+      "Beat It",
+      "Billie Jean",
+      "Thriller",
+      "Human Nature"
+    ],
+    "Year": 1982
+  },
+  {
+    "Album": "Back in Black",
+    "Artist": "AC/DC",
+    "Track": [
+      "Hells Bells",
+      "Shoot to Thrill",
+      "Back in Black",
+      "You Shook Me All Night Long",
+      "Rock and Roll Ain't Noise Pollution"
+    ],
+    "Year": 1980
+  },
+  {
+    "Album": "Rumours",
+    "Artist": "Fleetwood Mac",
+    "Track": [
+      "Second Hand News",
+      "Dreams",
+      "Don't Stop",
+      "Go Your Own Way",
+      "The Chain"
+    ],
+    "Year": 1977
+  }
+]
