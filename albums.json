@@ -1,38 +1,22 @@
-[
-  {
-    "Album": "Thriller",
-    "Artist": "Michael Jackson",
-    "Track": [
-      "Wanna Be Startin' Somethin'",
-      "Beat It",
-      "Billie Jean",
-      "Thriller",
-      "Human Nature"
-    ],
-    "Year": 1982
-  },
-  {
-    "Album": "Back in Black",
-    "Artist": "AC/DC",
-    "Track": [
-      "Hells Bells",
-      "Shoot to Thrill",
-      "Back in Black",
-      "You Shook Me All Night Long",
-      "Rock and Roll Ain't Noise Pollution"
-    ],
-    "Year": 1980
-  },
-  {
-    "Album": "Rumours",
-    "Artist": "Fleetwood Mac",
-    "Track": [
-      "Second Hand News",
-      "Dreams",
-      "Don't Stop",
-      "Go Your Own Way",
-      "The Chain"
-    ],
-    "Year": 1977
-  }
-]
+{
+  "albums": [
+    {
+      "title": "Dil Se..",
+      "artist": "A. R. Rahman",
+      "tracks": ["Chaiyya Chaiyya", "Jiya Jale", "Dil Se Re", "Ae Ajnabi", "Satrangi Re"],
+      "year": 1998
+    },
+    {
+      "title": "Kabhi Alvida Naa Kehna",
+      "artist": "Shankar-Ehsaan-Loy",
+      "tracks": ["Mitwa", "Tumhi Dekho Naa", "Kabhi Alvida Naa Kehna", "Where's The Party Tonight?", "Rock N Roll Soniye"],
+      "year": 2006
+    },
+    {
+      "title": "Aashiqui 2",
+      "artist": "Mithoon, Ankit Tiwari, Jeet Gannguli",
+      "tracks": ["Tum Hi Ho", "Sunn Raha Hai", "Chahun Main Ya Na", "Bhula Dena", "Aasan Nahin Yahan"],
+      "year": 2013
+    }
+  ]
+}
